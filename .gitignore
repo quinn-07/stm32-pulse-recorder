@@ -1,0 +1,4 @@
+/build/
+/replay
+/test-recorder
+*.exe

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-labelledby="title desc">
+<title id="title">A 1500 microsecond period in a 1 kHz pulse train</title>
+<desc id="desc">Host replay. Sixteen periods before trigger, one outlier at zero, and eight periods after trigger. The shaded band spans 900 to 1100 microseconds.</desc>
+<rect width="900" height="290" fill="#f8fafb"/>
+<g font-family="system-ui, sans-serif" fill="#1b323b">
+<text x="32" y="38" font-size="23" font-weight="700">Period around the trigger</text>
+<text x="861" y="36" text-anchor="end" font-size="14">PC replay · synthetic input</text>
+<rect x="100" y="166" width="720" height="44" fill="#d2efea"/>
+<line x1="96" y1="210" x2="820" y2="210" stroke="#b4c8ca" stroke-dasharray="3 5"/><text x="84" y="215" font-size="13" text-anchor="end">900</text>
+<line x1="96" y1="166" x2="820" y2="166" stroke="#b4c8ca" stroke-dasharray="3 5"/><text x="84" y="171" font-size="13" text-anchor="end">1100</text>
+<line x1="96" y1="122" x2="820" y2="122" stroke="#b4c8ca" stroke-dasharray="3 5"/><text x="84" y="127" font-size="13" text-anchor="end">1300</text>
+<line x1="96" y1="78" x2="820" y2="78" stroke="#b4c8ca" stroke-dasharray="3 5"/><text x="84" y="83" font-size="13" text-anchor="end">1500</text>
+<text x="40" y="56" font-size="13">µs</text>
+<polyline points="100,187.56 130,188.22 160,187.78 190,188.44 220,188.00 250,187.56 280,188.22 310,187.78 340,188.44 370,188.00 400,187.56 430,188.22 460,187.78 490,188.44 520,188.00 550,187.56 580,78.00 610,187.78 640,188.44 670,188.00 700,187.56 730,188.22 760,187.78 790,188.44 820,188.00" stroke="#16665f" stroke-width="2.5" fill="none"/>
+<circle cx="100" cy="187.56" r="3.5" fill="#16665f"/>
+<circle cx="130" cy="188.22" r="3.5" fill="#16665f"/>
+<circle cx="160" cy="187.78" r="3.5" fill="#16665f"/>
+<circle cx="190" cy="188.44" r="3.5" fill="#16665f"/>
+<circle cx="220" cy="188.00" r="3.5" fill="#16665f"/>
+<circle cx="250" cy="187.56" r="3.5" fill="#16665f"/>
+<circle cx="280" cy="188.22" r="3.5" fill="#16665f"/>
+<circle cx="310" cy="187.78" r="3.5" fill="#16665f"/>
+<circle cx="340" cy="188.44" r="3.5" fill="#16665f"/>
+<circle cx="370" cy="188.00" r="3.5" fill="#16665f"/>
+<circle cx="400" cy="187.56" r="3.5" fill="#16665f"/>
+<circle cx="430" cy="188.22" r="3.5" fill="#16665f"/>
+<circle cx="460" cy="187.78" r="3.5" fill="#16665f"/>
+<circle cx="490" cy="188.44" r="3.5" fill="#16665f"/>
+<circle cx="520" cy="188.00" r="3.5" fill="#16665f"/>
+<circle cx="550" cy="187.56" r="3.5" fill="#16665f"/>
+<circle cx="580" cy="78.00" r="6" fill="#b93a24"/>
+<circle cx="610" cy="187.78" r="3.5" fill="#16665f"/>
+<circle cx="640" cy="188.44" r="3.5" fill="#16665f"/>
+<circle cx="670" cy="188.00" r="3.5" fill="#16665f"/>
+<circle cx="700" cy="187.56" r="3.5" fill="#16665f"/>
+<circle cx="730" cy="188.22" r="3.5" fill="#16665f"/>
+<circle cx="760" cy="187.78" r="3.5" fill="#16665f"/>
+<circle cx="790" cy="188.44" r="3.5" fill="#16665f"/>
+<circle cx="820" cy="188.00" r="3.5" fill="#16665f"/>
+<text x="599" y="70" font-size="15" font-weight="700" fill="#97321d">1500 µs</text>
+<text x="100" y="238" text-anchor="middle" font-size="14">-16</text>
+<text x="220" y="238" text-anchor="middle" font-size="14">-12</text>
+<text x="340" y="238" text-anchor="middle" font-size="14">-8</text>
+<text x="460" y="238" text-anchor="middle" font-size="14">-4</text>
+<text x="580" y="238" text-anchor="middle" font-size="14">0</text>
+<text x="700" y="238" text-anchor="middle" font-size="14">4</text>
+<text x="820" y="238" text-anchor="middle" font-size="14">8</text>
+<text x="460" y="268" text-anchor="middle" font-size="15">Period index relative to trigger</text>
+</g></svg>
